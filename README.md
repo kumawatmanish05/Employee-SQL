@@ -11,7 +11,7 @@ The project covers:
 
 ---
 
-## 🎯 Objective
+## 🎯 Objective :-
 - To practice **SQL database creation and manipulation**.  
 - To understand **relationships** between entities (Employee & EmployeeDetail).  
 - To solve **common interview questions** (Nth highest salary, joins, ratios, etc.).  
@@ -19,7 +19,7 @@ The project covers:
 
 ---
 
-## 🔑 Key Points
+## 🔑 Key Points:-
 - Two tables: **Employee** (personal data) and **EmployeeDetail** (work data).  
 - Relationship: **One-to-Many** → One Employee can have multiple work records.  
 - Uses **date formatting functions** (`STR_TO_DATE`) for correct date storage.  
