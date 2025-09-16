@@ -4,7 +4,7 @@
 This project is a **mini Employee Management Database** built using **MySQL**.  
 It demonstrates how to create relational tables, insert sample data, and run queries for learning and practice.  
 
-The project covers::-
+The project covers:-
 - Designing relational database tables  
 - Using `INSERT`, `JOIN`, `GROUP BY`, `LIMIT`, `DELETE` and window functions  
 - Running **real-world interview-style queries**  
